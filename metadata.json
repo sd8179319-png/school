@@ -1,0 +1,6 @@
+{
+  "name": "Wisdom School Fee & Van Fee Portal",
+  "description": "School and Van fee billing portal for LKG to 5th Std. Admin: R Saravanan, Principal: Chithra. Features GPay 917659319 QR, bulk PDF export, WhatsApp automated parent messaging, and student management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
